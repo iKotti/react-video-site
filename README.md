@@ -6,8 +6,8 @@ Note : This is my first React project. I will do more professional work in the f
 
 Features
 <ul>
-  <li> Dark and light mode</li>
-  <li> Adding a Youtube video</li>
+  <li> Dark and light mode.</li>
+  <li> Adding a Youtube video.</li>
   <li> The ability to comment on the video.  </li>
   <li> Like the video. </li>
   <li> Ability to delete comments and videos. </li>
