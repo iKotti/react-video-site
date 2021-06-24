@@ -4,7 +4,7 @@ A simple Youtube video embed site.
 
 Note : This is my first React project. I will do more professional work in the future :) 
 
-Features
+## Features
 <ul>
   <li> Dark and light mode.</li>
   <li> Adding a Youtube video.</li>
@@ -14,7 +14,7 @@ Features
   <li> View related video.  </li>
 </ul>
 
-Screenshots <br>
+## Screenshots 
 <ul>
   <li> Light Mode</li> <br>
   
